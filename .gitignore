@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+ENV/
+venv/
+
+# PyTorch and Machine Learning
+data/
+*.pth
+*.pt
+*.onnx
+models/large/
+
+# Logs and outputs
+logs/
+*.log
+runs/
+wandb/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
