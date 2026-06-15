@@ -74,8 +74,3 @@ Inspired by the official [PyTorch Deep Learning](https://github.com/mrdbourke/py
 ⭐ If you found this project helpful, please give it a star!
 
 ---
-
-
-اگر خواستی بخشی از README تغییر کنه (مثلاً accuracy دقیق مدلت، اسم کامل، یا لینک لینکدین) بگو تا سریع ویرایش کنم. 
-
-حالا آماده‌ست؟ بریم سراغ `requirements.txt` یا چیز دیگه؟
